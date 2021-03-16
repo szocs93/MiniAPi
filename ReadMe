@@ -3,3 +3,16 @@ Miniscope Data Analysis Pipeline (by Szilard Szocs)
 This is a pipeline intended for personal and laboratory pruposes. It was written by Szilard Szocs based on CaImAn (Giovannucci, A., Friedrich, J., Gunn, P., Kalfon, J., Brown, B. L., Koay, S. A., … Pnevmatikakis, E. A. (2019). CaImAn an open source tool for scalable calcium imaging data analysis. eLife, 8. doi:10.7554/elife.38173)
 and https://github.com/etterguillaume/PIMPN by @Etter Guillaume.
 This is a free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or any later version.
+
+
+%% This google colab is intended to work on your local computer so before running anything please do the following:
+1. download and install Anaconda (https://anaconda.org/)
+2. install CaImAn and create the environments required
+3. install Jupyter notebook if not done with anaconda install
+4. install jupyter_http_over_ws extension
+5. when you are starting your notebook start with the following:
+      a. cd to the driver where you like to work
+      b. conda activate caiman
+      c. jupyter notebook --NotebookApp.allow_origin='https://colab.research.google.com' --port=8888 --NotebookApp.port_retries=0
+      
+For any further information please contact: szilard.szocs@aok.pte.hu
