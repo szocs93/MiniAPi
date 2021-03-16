@@ -1,12 +1,5 @@
 Miniscope Data Analysis Pipeline (by Szilard Szocs)
 
-This is a pipeline intended for personal and laboratory pruposes. It was written by Szilard Szocs based on CaImAn 
-@article{giovannucci2019caiman,
-  title={CaImAn: An open source tool for scalable Calcium Imaging data Analysis},
-  author={Giovannucci, Andrea and Friedrich, Johannes and Gunn, Pat and Kalfon, Jeremie and Brown, Brandon L and Koay, Sue Ann and Taxidis, Jiannis and Najafi, Farzaneh and Gauthier, Jeffrey L and Zhou, Pengcheng and Khakh, Baljit S and Tank, David W and Chklovskii, Dmitri B and Pnevmatikakis, Eftychios A},
-  journal={eLife},
-  volume={8},
-  pages={e38173},
-  year={2019},
-  publisher={eLife Sciences Publications Limited}
-}
+This is a pipeline intended for personal and laboratory pruposes. It was written by Szilard Szocs based on CaImAn (Giovannucci, A., Friedrich, J., Gunn, P., Kalfon, J., Brown, B. L., Koay, S. A., … Pnevmatikakis, E. A. (2019). CaImAn an open source tool for scalable calcium imaging data analysis. eLife, 8. doi:10.7554/elife.38173)
+and https://github.com/etterguillaume/PIMPN.
+This is a free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or any later version.
